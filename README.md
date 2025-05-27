@@ -3,4 +3,4 @@ Este trabalho tem como objetivo analisar uma amostragem dos dados de vendas de v
 
 Para ter acesso ao projeto é preciso acessar o arquivo venda_veiculos.ipynb pelo próprio editor do GitHub ou baixar a versão em HTML.
 
-Caso queira editar diretamente o notebook é possível acessar pela plataforma Kaggle no seguinte link: **https://www.kaggle.com/code/jairsouza/brasil-acidentes**
+Caso queira editar diretamente o notebook é possível acessar pela plataforma Kaggle no seguinte link: **https://www.kaggle.com/code/jairsouza/venda-de-ve-culos-nos-eua**
